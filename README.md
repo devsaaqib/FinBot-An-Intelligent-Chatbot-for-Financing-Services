@@ -3,9 +3,11 @@ Finbot is an intelligent chatbot developed by Saaqib to provide personalized fin
 
 
 **STATEMENT**
+
 We aim to build a simple, intelligent chatbot named Finbot, which will provide personalized financial services to a user based on wallet details, account information, and previous and scheduled expenditures. Finbot will take the form of a responsive web application, where the user can post queries and receive the most suitable responses.
 
 **MOTIVATION**
+
 In today’s digital world, managing finances is a growing challenge for both individuals and organizations. While certain scheduled expenses are inevitable, impulsive spending often disrupts financial balance. Users frequently seek access to their financial records and tailored advice to manage their budgets more efficiently.
 
 Finbot aims to address this need by offering intelligent, personalized financial services. By improving client service efficiency, minimizing human error, and resolving queries quickly, Finbot empowers users to take control of their finances.
@@ -19,6 +21,7 @@ Finbot enables customers to:
 3.Review account details, make payments, and get real-time spending advice
 
 **OBJECTIVE**
+
 * The objective of this project is to create a smart chatbot—Finbot—that:
 
 * Greets the user and introduces itself
@@ -28,6 +31,7 @@ Finbot enables customers to:
 * Responds to user queries through a dialog interface
 
 **Finbot will provide:**
+
 
 * Wallet details: Total money available, amount spent, remaining balance
 
@@ -40,6 +44,7 @@ Finbot enables customers to:
 * A responsive web application will serve as the platform, featuring a chat interface where users interact with Finbot through natural conversation.
 
 **WORKPLAN**
+
 * Receive an HTTP request with user text input
 
 * Apply Natural Language Understanding (NLU) to extract user intent
@@ -51,6 +56,7 @@ Finbot enables customers to:
 * Wait for the user’s next input and repeat the cycle
 
 **DELIVERABLES**
+
 * A responsive web-based chatbot interface
 
 * Finbot will provide real-time, intelligent responses to financial queries
